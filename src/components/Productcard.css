@@ -1,0 +1,23 @@
+.card {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: skyblue;
+    border-radius: 10px;
+    margin-bottom: 12px;
+
+}
+
+.card img {
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+    margin-right: 18px;
+}
+
+.title {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: navy;
+    margin-bottom: -12px;
+}
